@@ -1,0 +1,21 @@
+#h1{
+    color: #ac2094;
+    padding-top: 30px;
+    padding-left: 50px;
+}
+header{
+    background: #dc7fa9;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    padding: 10px 15px 5px 15px;
+}
+
+.img{
+    height: 300px;
+    width: 500px;
+    
+}
+body{
+    background-color: antiquewhite;
+}
